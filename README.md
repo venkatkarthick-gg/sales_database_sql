@@ -1,1 +1,1 @@
-# sales_database_sql
+This repository contains an analysis of a sales database using SQL queries to extract insights, trends, and meaningful information from the sales data. The analysis aims to provide a comprehensive view of the sales performance, customer behavior, and product trends within the database
